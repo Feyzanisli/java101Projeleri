@@ -15,10 +15,8 @@ public class KdvTutariHesaplayanProgram {
         double kdvtutari8 = fiyat / 100 * 8;
         double kdvarti8 = fiyat + kdvtutari8;
 
-
         boolean artibin = fiyat > 1000;
         String hesap = artibin ? ("Ürünün KDV Tutarı: " + kdvtutari8) + ("\nÜrünün KDV'li Fiyatı: " + kdvarti8) : ("Ürünün KDV Tutarı: " + kdvtutari18) + ("\nÜrünün KDV'li Fiyatı: " + kdvarti18);
         System.out.println(hesap);
-
     }
 }
