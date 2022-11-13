@@ -1,8 +1,5 @@
 package VucutKitleIndexiHesaplayanProgram;
 import java.util.Scanner;
-
-//Patika.dev profil adresim: https://app.patika.dev/feyzameyza
-
 public class VucutKitleIndexiHesaplayanProgram {
     public static void main(String[] args) {
         double m, kg, index;
