@@ -1,4 +1,4 @@
-package OdevVeProjeler;
+package VucutKitleIndexiHesaplayanProgram;
 import java.util.Scanner;
 
 //Patika.dev profil adresim: https://app.patika.dev/feyzameyza
