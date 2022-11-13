@@ -1,9 +1,8 @@
-package Kdv;
+package OdevVeProjeler;
 import java.util.Scanner;
 public class KdvTutariHesaplayanProgram {
     public static void main(String[] args){
         double fiyat;
-
         Scanner urun = new Scanner(System.in);
         System.out.print("Ürünün KDV'siz fiyatını giriniz: ");
         fiyat = urun.nextDouble();

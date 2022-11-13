@@ -1,4 +1,4 @@
-package NotOrtalamasi;
+package OdevVeProjeler;
 import java.util.Scanner;
 public class NotOrtalamasiHesaplayanProgram {
     public static void main(String[] args){

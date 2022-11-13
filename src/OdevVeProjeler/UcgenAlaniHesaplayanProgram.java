@@ -1,4 +1,4 @@
-package Hipotenus;
+package OdevVeProjeler;
 import java.util.Scanner;
 public class UcgenAlaniHesaplayanProgram {
     public static void main(String[] args){
