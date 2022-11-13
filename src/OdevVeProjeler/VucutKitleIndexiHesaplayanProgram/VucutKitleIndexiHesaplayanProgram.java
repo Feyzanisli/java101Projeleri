@@ -1,4 +1,4 @@
-package VucutKitleIndexiHesaplayanProgram;
+package OdevVeProjeler.VucutKitleIndexiHesaplayanProgram;
 import java.util.Scanner;
 public class VucutKitleIndexiHesaplayanProgram {
     public static void main(String[] args) {
