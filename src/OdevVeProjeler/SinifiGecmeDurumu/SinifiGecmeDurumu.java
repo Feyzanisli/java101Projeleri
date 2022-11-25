@@ -55,6 +55,7 @@ public class SinifiGecmeDurumu {
         }
 
         avarage = totalGrade / counter;
+
         System.out.println("Ortalamanız: " + avarage);
         if (avarage <= 55) {
             System.out.println("Sınıfta kaldınız, seneye tekrar görüşmek üzere!");
