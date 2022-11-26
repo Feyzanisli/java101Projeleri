@@ -1,4 +1,4 @@
-package SayilariSiralama;
+package OdevVeProjeler.SayilariSiralama;
 
 import java.util.Scanner;
 
