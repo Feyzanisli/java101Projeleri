@@ -1,8 +1,8 @@
-package OdevVeProjeler.GirilenSayilardanCiftSayiBulma;
+package OdevVeProjeler.GirilenSayiyaKadar3ve4eBolunenlerinortalamasi;
 
 import java.util.Scanner;
 
-public class GirilenSayilardanCiftSayiBulma {
+public class GirilenSayiyaKadar3ve4eBolunenlerinortalamasi {
     public static void main(String[] args) {
         int user, i = 1;
         double avarage, total = 0, counter = 0;
