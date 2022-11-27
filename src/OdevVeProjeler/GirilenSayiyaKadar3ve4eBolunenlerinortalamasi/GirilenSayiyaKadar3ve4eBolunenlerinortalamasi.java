@@ -11,7 +11,7 @@ public class GirilenSayiyaKadar3ve4eBolunenlerinortalamasi {
         System.out.print("Bir sayı giriniz: ");
         user = inp.nextInt();
 
-        while (i < user) {
+        while (i <= user) {
             if (i % 3 == 0) {
                 total += i;
                 counter++;
