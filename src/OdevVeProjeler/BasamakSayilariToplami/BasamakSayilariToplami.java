@@ -1,8 +1,8 @@
-package OdevVeProjeler.ArmstrongSayiBulanProgram;
+package OdevVeProjeler.BasamakSayilariToplami;
 
 import java.util.Scanner;
 
-public class ArmstrongSayiBulanProgram {
+public class BasamakSayilariToplami {
     public static void main(String[] args) {
         int number;
         Scanner input = new Scanner(System.in);
