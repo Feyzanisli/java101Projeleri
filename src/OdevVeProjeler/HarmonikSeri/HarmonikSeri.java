@@ -1,4 +1,4 @@
-package HarmonikSeri;
+package OdevVeProjeler.HarmonikSeri;
 
 import java.util.Scanner;
 
